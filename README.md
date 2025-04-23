@@ -10,7 +10,9 @@ This Flutter application displays a list of Frequently Asked Questions (FAQs) fe
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Images
+<img src="https://github.com/user-attachments/assets/97f71fb7-a1df-4fcc-bc10-103b68e5b4e9" width=150 height=300>
+
 
 ### 1. Clone the Repository
 
