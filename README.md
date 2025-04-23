@@ -1,4 +1,4 @@
-# faqstry
+# Faqstry
 
 A new Flutter project.
 
